@@ -2,6 +2,7 @@
 
 ###  Soy diseñadora UX/UI. 
 
+🔭 Actualmente trabajo en C&S.
 
 🕵 Lo que más amo es prototipar pantallas y sistemas focalizados en su ux y luego maquetarlos en conjunto con devs, para eso uso: 
 * HTML5
@@ -19,8 +20,6 @@
 
 
 
-
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisinafl&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
 
 
@@ -33,5 +32,3 @@
 
 
 
-<!--
-**majoledesma/majoledesma** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
