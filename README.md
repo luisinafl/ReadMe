@@ -2,19 +2,20 @@
 
 ###  Soy diseñadora UX/UI. 
 
-🔭 Actualmente trabajo en C&S.
+🔭 Actualmente trabajo en Qubik.
 
 🕵 Lo que más amo es prototipar pantallas y sistemas focalizados en su ux y luego maquetarlos en conjunto con devs, para eso uso: 
 * HTML5
 * SCSS
 * JavaScript
 * React JS
+* Angular
 * Adobe XD
 * Adobe Illustrator
 
 💖 
  
-🌸 Estudié Diseño y Comunicación Visual y en una materia cuatrimestral me di cuenta de lo que me gustaba era diseñar webs, ¡y me convertí en uxer!.
+🌸 Estudié Diseño y Comunicación Visual y en una materia cuatrimestral me di cuenta de lo que me gustaba era diseñar webs, ¡y me convertí en UXer!.
 
 👩🏻 Entre mis hobbies se encuentran: tener una mini huerta de balcón, cocinar, ilustrar (uso una Wacom con Illustrator).
 
