@@ -2,7 +2,7 @@
 
 ###  Soy diseñadora UX/UI. 
 
-🔭 Actualmente trabajo en Qubik.
+🔭 Actualmente trabajo en <a href="https://www.qubikdigital.com/" target="_blank">Qubik</a>.
 
 🕵 Lo que más amo es prototipar pantallas y sistemas focalizados en su ux y luego maquetarlos en conjunto con devs, para eso uso: 
 * HTML5
