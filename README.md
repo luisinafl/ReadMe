@@ -29,6 +29,7 @@
 * ✨ Gmail: lfernandezlong@gmail.com
 * ✨ Behance: https://www.behance.net/luisinafl
 * ✨ LinkedIn: https://www.linkedin.com/in/luisinafl
+* ✨ Codepen: https://codepen.io/luiflong
 
 
 
